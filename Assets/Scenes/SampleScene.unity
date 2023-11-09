@@ -1934,8 +1934,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].dialogueText
-      value: nice, new arm and cured the slimes, I was a one arm many... i mean one
-        man army
+      value: nice, new arm and cured the slimes, I was a one arm many... i mean a
+        one man army
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671656641054, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: m_Name
@@ -2044,7 +2044,8 @@ PrefabInstance:
       objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].dialogueText
-      value: Don't forget to ARM yourself you can take this big spoon.
+      value: Don't forget to ARM yourself, you can take this big spoon its the only
+        weapon I have.
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].playerSprite
@@ -2052,7 +2053,8 @@ PrefabInstance:
       objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].dialogueText
-      value: Thanks with this I can take them on single hand-edly
+      value: Thanks with this I can take them on single hand-edly, still techniqually
+        un-armed though...
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].playerSprite
@@ -2084,13 +2086,12 @@ PrefabInstance:
       objectReference: {fileID: -1250652154, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.size
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[0].dialogueText
       value: 'Traveller, I notice the missing limb, Help me, and I''ll restore your
-        arm. a infective curse has spread amongst my fellow slimes in the dungeon,
-        and I cant go back.  '
+        arm. '
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[0].playerSprite
@@ -2098,25 +2099,25 @@ PrefabInstance:
       objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].dialogueText
-      value: why would I trust a slime? Those things attacked me earlier
+      value: 'a infective curse has spread amongst my fellow slimes in the dungeon,
+        and I cant go back or I will meet the same demise.  '
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].playerSprite
       value: 
-      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].dialogueText
-      value: The heart of the forest is the key, Combined with my slime abilities
-        I can cure my companions and grow you a new arm
+      value: why would I trust a slime? Those things attacked me earlier
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].dialogueText
-      value: Retrieve it, and your arm shall grow anew. Follow the light and other
-        clues. Trust me, and we both find salvation.
+      value: The heart of the forest is the key, Combined with my slime abilities
+        I can cure my companions and grow you a new stronger arm
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].playerSprite
@@ -2124,28 +2125,29 @@ PrefabInstance:
       objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[4].dialogueText
-      value: okay I'll do it, I better not lose my other arm
+      value: Retrieve it, and your arm shall grow anew. Follow the light and other
+        clues. Trust me, and we both find salvation.
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[4].playerSprite
       value: 
-      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[5].dialogueText
-      value: good luck traveller
+      value: okay I'll do it, I better not lose my other arm... its all I have left
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[5].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[6].dialogueText
-      value: 'Okay i''ll do it, where do I go? '
+      value: good luck traveller
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[6].playerSprite
       value: 
-      objectReference: {fileID: -97708793, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[7].dialogueText
       value: follow the light and the bones of my comrades
@@ -2160,11 +2162,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].characterName
-      value: Player
+      value: NPC
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].characterName
-      value: NPC
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].characterName
@@ -2172,15 +2174,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[4].characterName
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
-      propertyPath: dialogueEntries.Array.data[5].characterName
       value: NPC
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
-      propertyPath: dialogueEntries.Array.data[6].characterName
+      propertyPath: dialogueEntries.Array.data[5].characterName
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[6].characterName
+      value: NPC
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[7].characterName
@@ -2193,11 +2195,11 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].nonPlayerSprite
       value: 
-      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].nonPlayerSprite
       value: 
@@ -2205,15 +2207,15 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[4].nonPlayerSprite
       value: 
-      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[5].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[6].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1250652154, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[7].nonPlayerSprite
       value: 
