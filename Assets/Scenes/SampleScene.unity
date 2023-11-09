@@ -2167,6 +2167,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0.00024414062
       objectReference: {fileID: 0}
+    - target: {fileID: 2190884670897951630, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.2901961
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884670897951630, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: m_Color.g
+      value: 0.46274513
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884670897951630, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.2901961
+      objectReference: {fileID: 0}
     - target: {fileID: 2190884671212559415, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -0.00024414062
@@ -2180,15 +2192,39 @@ PrefabInstance:
       value: Here is the relic, now please give me a hand... and arm
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].playerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 07ae9dc9b16f712478830d4e3427472e, type: 3}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].dialogueText
       value: Good job, give yourself a round of applause... sorry i'll do the ritual
         now
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].playerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].dialogueText
       value: nice, new arm and cured the slimes, I was a one arm many... i mean a
         one man army
       objectReference: {fileID: 0}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].playerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 07ae9dc9b16f712478830d4e3427472e, type: 3}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].nonPlayerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].nonPlayerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].nonPlayerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
     - target: {fileID: 2190884671656641054, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: m_Name
       value: '******* Canvas ********'
@@ -2286,6 +2322,10 @@ PrefabInstance:
       value: Where do I go again? what am I looking for?
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].playerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 07ae9dc9b16f712478830d4e3427472e, type: 3}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].dialogueText
       value: the Heart of the forest is hidden in the slime dungeon, follow the lights
         and other clues
@@ -2293,7 +2333,7 @@ PrefabInstance:
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].dialogueText
       value: Don't forget to ARM yourself, you can take this big spoon its the only
@@ -2302,7 +2342,7 @@ PrefabInstance:
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].dialogueText
       value: Thanks with this I can take them on single hand-edly, still techniqually
@@ -2311,7 +2351,7 @@ PrefabInstance:
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].playerSprite
       value: 
-      objectReference: {fileID: -97708793, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 07ae9dc9b16f712478830d4e3427472e, type: 3}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].characterName
       value: NPC
@@ -2325,20 +2365,28 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].nonPlayerSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
     - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1250652154, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
+    - target: {fileID: 2190884671998928417, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884672097465254, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.size
@@ -2352,7 +2400,7 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[0].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].dialogueText
       value: 'a infective curse has spread amongst my fellow slimes in the dungeon,
@@ -2361,7 +2409,7 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].dialogueText
       value: why would I trust a slime? Those things attacked me earlier
@@ -2369,7 +2417,7 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].playerSprite
       value: 
-      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 07ae9dc9b16f712478830d4e3427472e, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].dialogueText
       value: The heart of the forest is the key, Combined with my slime abilities
@@ -2378,7 +2426,7 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[4].dialogueText
       value: Retrieve it, and your arm shall grow anew. Follow the light and other
@@ -2387,7 +2435,7 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[4].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[5].dialogueText
       value: okay I'll do it, I better not lose my other arm... its all I have left
@@ -2395,7 +2443,7 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[5].playerSprite
       value: 
-      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 07ae9dc9b16f712478830d4e3427472e, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[6].dialogueText
       value: good luck traveller
@@ -2403,7 +2451,7 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[6].playerSprite
       value: 
-      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[7].dialogueText
       value: follow the light and the bones of my comrades
@@ -2447,31 +2495,31 @@ PrefabInstance:
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[0].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[1].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[2].nonPlayerSprite
       value: 
-      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[3].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[4].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[5].nonPlayerSprite
       value: 
-      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[6].nonPlayerSprite
       value: 
-      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+      objectReference: {fileID: 21300000, guid: 1f966cf8bc48a6a4ba4692d9fbe83310, type: 3}
     - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: dialogueEntries.Array.data[7].nonPlayerSprite
       value: 
@@ -2480,6 +2528,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
+    - target: {fileID: 2190884672452400030, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: df1d3fa60354fde4a8b8b4f43b364a39, type: 3}
+    - target: {fileID: 2190884672519035713, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6eb88703f24d4c443bc6627d537dfe6c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3220,7 +3276,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 639786712784787344, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
       propertyPath: m_Size
-      value: 0.3
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 639786712784787344, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
       propertyPath: m_Color.rgba
@@ -3236,11 +3292,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3918751411058313036, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 79.322
+      value: 79.321
       objectReference: {fileID: 0}
     - target: {fileID: 3918751411058313036, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.84
+      value: 0.849
       objectReference: {fileID: 0}
     - target: {fileID: 3918751411058313036, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3281,6 +3337,10 @@ PrefabInstance:
     - target: {fileID: 3918751411058678636, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8349788399866395221, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3491,6 +3551,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 639786712784787344, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
+      propertyPath: m_Size
+      value: 0.24
+      objectReference: {fileID: 0}
     - target: {fileID: 3918751411058313036, guid: bf7a7fc00791eb945a5412768a68fffc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 77.5517
