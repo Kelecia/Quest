@@ -1923,6 +1923,20 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].dialogueText
+      value: Here is the relic, now please give me a hand... and arm
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].dialogueText
+      value: Good job, give yourself a round of applause... sorry i'll do the ritual
+        now
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671404027932, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].dialogueText
+      value: nice, new arm and cured the slimes, I was a one arm many... i mean one
+        man army
+      objectReference: {fileID: 0}
     - target: {fileID: 2190884671656641054, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
       propertyPath: m_Name
       value: '******* Canvas ********'
@@ -2011,6 +2025,199 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].dialogueText
+      value: Where do I go again? what am I looking for?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].dialogueText
+      value: the Heart of the forest is hidden in the slime dungeon, follow the lights
+        and other clues
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].playerSprite
+      value: 
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].dialogueText
+      value: Don't forget to ARM yourself you can take this big spoon.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].playerSprite
+      value: 
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].dialogueText
+      value: Thanks with this I can take them on single hand-edly
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].playerSprite
+      value: 
+      objectReference: {fileID: -97708793, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].characterName
+      value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].characterName
+      value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].characterName
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884671773042270, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1250652154, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].dialogueText
+      value: 'Traveller, I notice the missing limb, Help me, and I''ll restore your
+        arm. a infective curse has spread amongst my fellow slimes in the dungeon,
+        and I cant go back.  '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].playerSprite
+      value: 
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].dialogueText
+      value: why would I trust a slime? Those things attacked me earlier
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].playerSprite
+      value: 
+      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].dialogueText
+      value: The heart of the forest is the key, Combined with my slime abilities
+        I can cure my companions and grow you a new arm
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].playerSprite
+      value: 
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].dialogueText
+      value: Retrieve it, and your arm shall grow anew. Follow the light and other
+        clues. Trust me, and we both find salvation.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].playerSprite
+      value: 
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[4].dialogueText
+      value: okay I'll do it, I better not lose my other arm
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[4].playerSprite
+      value: 
+      objectReference: {fileID: -990951239, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[5].dialogueText
+      value: good luck traveller
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[5].playerSprite
+      value: 
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[6].dialogueText
+      value: 'Okay i''ll do it, where do I go? '
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[6].playerSprite
+      value: 
+      objectReference: {fileID: -97708793, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[7].dialogueText
+      value: follow the light and the bones of my comrades
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[7].playerSprite
+      value: 
+      objectReference: {fileID: 35769770, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].characterName
+      value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].characterName
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].characterName
+      value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].characterName
+      value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[4].characterName
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[5].characterName
+      value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[6].characterName
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[7].characterName
+      value: NPC
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[0].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[1].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[2].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[3].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[4].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -392363202, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[5].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[6].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1250652154, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
+    - target: {fileID: 2190884672097465255, guid: df03d8b1f5dcf964183ca0e32f35742e, type: 3}
+      propertyPath: dialogueEntries.Array.data[7].nonPlayerSprite
+      value: 
+      objectReference: {fileID: -1935648561, guid: 0b83478f632274446b77891f8d3f3cd1, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2767,6 +2974,75 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6482677549232728849, guid: dd46835ba98bdda46807dfc0f3f9c889, type: 3}
   m_PrefabInstance: {fileID: 690777279}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1573543898
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3885206191806003304, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_Name
+      value: Spoon
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.3082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.3082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.3082
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 78.756
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.927
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 57.636
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98648226
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0895695
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.13601537
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.018161321
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 10.466
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -15.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4512843078935962322, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.668
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e1fcee434c875124d9a75e52b62ad290, type: 3}
 --- !u!1001 &1581817315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3898,3 +4174,4 @@ SceneRoots:
   - {fileID: 1831387943}
   - {fileID: 718191649}
   - {fileID: 121886738}
+  - {fileID: 1573543898}
